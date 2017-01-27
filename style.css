@@ -9,4 +9,7 @@ text decoration: name
 a:hover{
 	color: red;
 }
+a:hover {
+	color: purple
+}		
 		
