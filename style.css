@@ -1,8 +1,7 @@
 
-body {background-color:rgb(rgb(204, 102, 255);}
+body {background-color:blue}
 a {
 	color:red:
-text-decoration:underline
 h1 }
 a:hover{
 	color:red:
@@ -10,4 +9,5 @@ a:hover{
 a:body {
 background-color:blue:
 }		
-		
+<link rel="stylesheet"type="text/css" href="main.css" />
+<title>Sidebar</title>
