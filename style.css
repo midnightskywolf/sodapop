@@ -1,10 +1,32 @@
 
 body {background-color:blue}
+padding:0%;
+margin:0%;
+}
 a {
 	color:red:
 h1 }
 a:hover{
 	color:red:
+}
+a{
+	text-decoration:none;
+	color:#cc0000;
+}
+a.button,div.container{
+	float:;left;
+}
+a.button{
+	background-color:#cc0000;
+	border:1px solid #660000;
+	border-radius:5px;
+	color:#fff;
+	margin-right:10px;
+	padding:10px 10px 10px 10px;
+}
+div.container{
+	width:100%
+	clear:both;
 }
 a:body {
 background-color:red:
